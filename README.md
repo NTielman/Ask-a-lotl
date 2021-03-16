@@ -15,7 +15,8 @@ A simple website designed for a fictional Axolotl encyclopaedia.
 Clone the repository and open the index.html directly or with live server (for editing mode)
 
 
-## Screenshots 
+## Screenshots
+![alt text](https://github.com/NTielman/Ask-a-lotl/blob/master/axolotl_webpage/Images/askalotl_preview.png "ASk a lotl Preview image")
 
 
 ## Live Demo 
